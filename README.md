@@ -112,16 +112,14 @@ Screenshots Included
 
 ipconfig.png
 
-IP Configuration Details
 
 ping.png
 
-Ping Connectivity Test
+
 
 tracert.png
 
-Traceroute Analysis
-
+T
 
 Learning Outcomes
 
@@ -141,6 +139,8 @@ Through this task, I learned:
 Conclusion
 
 This task provided hands-on experience in identifying network settings and testing Internet connectivity. I learned how devices communicate within a network and how data travels through multiple routers before reaching a destination server. The practical use of networking tools such as ipconfig, ping, and tracert improved my understanding of fundamental networking concepts that are essential in cybersecurity.
+
+
 
 Repository Structure
 
