@@ -27,58 +27,6 @@ Device Details
 
 ---
 
-Screenshots Included
-
-- ipconfig /all output
-- ping google.com output
-- tracert google.com output
-
----
-
-IP Configuration Screenshot
-
-![IP Configuration](Screenshots/ipconfig.png)
-
- Observation
-
-The `ipconfig /all` command was used to display detailed network configuration information, including hostname, IP address, network adapters, and DHCP settings.
-
----
-
-Ping Test Screenshot
-
-![Ping Test](Screenshots/ping.png)
-
-Observation
-
-The `ping google.com` command was used to test connectivity between the local system and Google's servers.
-
-Results:
-
-- Packets Sent: 4
-- Packets Received: 4
-- Packets Lost: 0
-- Minimum Time: 74 ms
-- Maximum Time: 148 ms
-- Average Time: 118 ms
-
-The successful replies indicate that the system has a stable Internet connection.
-
----
-
-Traceroute Screenshot
-
-![Traceroute](Screenshots/tracert.png)
-
-### Observation
-
-The `tracert google.com` command was used to trace the path taken by packets from the local computer to Google's servers.
-
-Results:
-
-- Total Hops: 12
-- Destination reached successfully
-- Some intermediate routers showed "Request Timed Out", which is normal because certain routers block ICMP responses for security reasons.
 
 ---
 
@@ -162,6 +110,59 @@ What is the purpose of traceroute?
 Traceroute identifies the path taken by data packets from the source device to the destination server. It helps diagnose network delays, routing issues, and connectivity problems.
 
 ---
+
+Screenshots Included
+
+- ipconfig /all output
+- ping google.com output
+- tracert google.com output
+
+---
+
+IP Configuration Screenshot
+
+![IP Configuration](Screenshots/ipconfig.png)
+
+ Observation
+
+The `ipconfig /all` command was used to display detailed network configuration information, including hostname, IP address, network adapters, and DHCP settings.
+
+---
+
+Ping Test Screenshot
+
+![Ping Test](Screenshots/ping.png)
+
+Observation
+
+The `ping google.com` command was used to test connectivity between the local system and Google's servers.
+
+Results:
+
+- Packets Sent: 4
+- Packets Received: 4
+- Packets Lost: 0
+- Minimum Time: 74 ms
+- Maximum Time: 148 ms
+- Average Time: 118 ms
+
+The successful replies indicate that the system has a stable Internet connection.
+
+---
+
+Traceroute Screenshot
+
+![Traceroute](Screenshots/tracert.png)
+
+### Observation
+
+The `tracert google.com` command was used to trace the path taken by packets from the local computer to Google's servers.
+
+Results:
+
+- Total Hops: 12
+- Destination reached successfully
+- Some intermediate routers showed "Request Timed Out", which is normal because certain routers block ICMP responses for security reasons
 
 Learning Outcomes
 
