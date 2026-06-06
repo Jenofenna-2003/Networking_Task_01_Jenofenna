@@ -37,7 +37,7 @@ Screenshots Included
 
 IP Configuration Screenshot
 
-![IP Configuration](ipconfig.png)
+![IP Configuration](Screenshots/ipconfig.png)
 
  Observation
 
@@ -47,7 +47,7 @@ The `ipconfig /all` command was used to display detailed network configuration i
 
 Ping Test Screenshot
 
-![Ping Test](ping.png)
+![Ping Test](Screenshots/ping.png)
 
 Observation
 
@@ -68,7 +68,7 @@ The successful replies indicate that the system has a stable Internet connection
 
 Traceroute Screenshot
 
-![Traceroute](/tracert.png)
+![Traceroute](Screenshots/tracert.png)
 
 ### Observation
 
