@@ -129,9 +129,9 @@ The `ipconfig /all` command was used to display detailed network configuration i
 
 ---
 
-Ping Test Screenshot
+Ping_google.png
 
-![Ping](Screenshots/ping.png)
+![IP Configuration](Screenshots/ping.png)
 
 Observation
 
