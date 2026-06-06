@@ -131,7 +131,7 @@ The `ipconfig /all` command was used to display detailed network configuration i
 
 Ping_google.png
 
-![IP Configuration](Screenshots/ping.png)
+![Ping](Screenshots/ping.png)
 
 Observation
 
